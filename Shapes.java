@@ -6,6 +6,7 @@ public class Shapes{
     System.out.print("Enter the side length: ");
     double side = input.nextDouble();
     square(side);
+    //End method
   }
 
   /*
